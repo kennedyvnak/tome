@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ScriptableSingletons
+  m_EditorClassIdentifier: 
+  m_GroupName: ScriptableSingletons
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 650bbe9fc1562e549be8828ba0bc4524
+  m_SerializeEntries:
+  - m_GUID: d74b2cfa0fd2ea840a6d8af7063427cd
+    m_Address: Kennedy.UnityUtility.ScriptableSingletons.Tests.SingletonB
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scriptable Singleton
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 40f85ed514db2e349836a75def0cab9f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ac43231222af6e44aa505760526a9edf, type: 2}
+    - {fileID: 11400000, guid: 2d8e92bd2f58ede4aa51dc6347cebebd, type: 2}
