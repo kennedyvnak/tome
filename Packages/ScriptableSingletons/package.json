@@ -1,0 +1,24 @@
+{
+  "name": "com.kennedyvnak.scriptable-singletons",
+  "version": "1.0.0",
+  "displayName": "Scriptable Singletons",
+  "description": "Scriptable Objects Singletons handler that uses Addressables.",
+  "unity": "2021.3",
+  "unityRelease": "11f1",
+  "dependencies": {
+    "com.unity.addressables": "1.19.19"
+  },
+  "documentationUrl": "https://github.com/kennedyvnak/unity-utility/blob/master/scriptable-singletons/README.md",
+  "licensesUrl": "https://github.com/kennedyvnak/unity-utility/blob/master/scriptable-singletons/LICENSE",
+  "keywords": [
+    "scriptable",
+    "singleton",
+    "singletons"
+  ],
+  "author": {
+    "name": "Kennedy",
+    "email": "kennedyvnak@gmail.com",
+    "url": "https://www.github.com/kennedyvnak"
+  },
+  "type": "tool"
+}
